@@ -1,5 +1,4 @@
 # YUMIMOBI-TAG
-YUMIMOBI-TAG 文档
 
 
 [**YUMIMOBI-Ironsource tag Integration Guide**](https://github.com/yumimobi/YUMIMOBI-TAG/blob/master/ironsource%20tag%20.md)
